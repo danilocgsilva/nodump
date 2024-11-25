@@ -24,6 +24,7 @@
     },
     "require": {
         "doctrine/migrations": "^3.8",
-        "doctrine/orm": "^3.3"
+        "doctrine/orm": "^3.3",
+        "symfony/cache": "^7.1"
     }
 }

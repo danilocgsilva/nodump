@@ -9,12 +9,9 @@ return [
         'execution_time_column_name' => 'execution_time',
     ],
 
-    /*
     'migrations_paths' => [
-        'MyProject\Migrations' => '/data/doctrine/migrations/lib/MyProject/Migrations',
-        'MyProject\Component\Migrations' => './Component/MyProject/Migrations',
+        'Danilocgsilva\Nodump\Migrations' => __DIR__ . '/../migrations',
     ],
-    */
 
     'all_or_nothing' => true,
     'transactional' => true,
