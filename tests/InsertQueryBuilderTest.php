@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Danilocgsilva\Nodump\Tests;
+namespace Danilocgsilva\NodumpDatabase\Tests;
 
-use Danilocgsilva\Nodump\Field;
-use Danilocgsilva\Nodump\InsertQueryBuilder;
+use Danilocgsilva\NodumpDatabase\Field;
+use Danilocgsilva\NodumpDatabase\InsertQueryBuilder;
 use PHPUnit\Framework\TestCase;
 
 class InsertQueryBuilderTest extends TestCase

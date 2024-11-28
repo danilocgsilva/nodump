@@ -10,7 +10,7 @@ return [
     ],
 
     'migrations_paths' => [
-        'Danilocgsilva\Nodump\Migrations' => __DIR__ . '/../migrations',
+        'Danilocgsilva\NodumpDatabase\Migrations' => __DIR__ . '/../migrations',
     ],
 
     'all_or_nothing' => true,

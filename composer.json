@@ -1,11 +1,11 @@
 {
-    "name": "danilocgsilva/nodump",
+    "name": "danilocgsilva/nodump_database",
     "description": "Resource to clone database data without dump script - only read access",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Danilocgsilva\\Nodump\\": "src/"
+            "Danilocgsilva\\NodumpDatabase\\": "src/"
         }
     },
     "autoload-dev": {

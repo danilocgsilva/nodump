@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Danilocgsilva\Nodump;
+namespace Danilocgsilva\NodumpDatabase;
 
 class InsertQueryBuilder
 {
